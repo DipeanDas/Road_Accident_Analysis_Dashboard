@@ -6,3 +6,4 @@ Data Source: Kaggle,Wikipedia
 ![RoadAccident_Dashboard](https://github.com/DipeanDas/Road_Accident_Analysis_Dashboard/assets/114298558/2666bfa1-4755-4d0a-a1f8-28509a0af660)
 
 ![Analysis_sheet](https://github.com/DipeanDas/Road_Accident_Analysis_Dashboard/assets/114298558/223b6419-3543-49bb-b0d4-50b483f434f1)
+<img width="635" alt="dashboard" src="https://github.com/DipeanDas/Road_Accident_Analysis_Dashboard/assets/114298558/62d37f6d-31a1-4cb6-a4d2-e85ac29d761b">
