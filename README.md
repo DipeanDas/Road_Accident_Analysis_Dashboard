@@ -1,5 +1,5 @@
 # Road_Accident_Analysis_Dashboard
-This repository includes a dashboard created in Excel and has the analysis of Road Accident cases in 2021 and 2022 in England
+This repository includes a dashboard created in Excel,PowerBI and has the analysis of Road Accident cases in 2021 and 2022 in England
 KPI(Key Performance Indicators): Fatal, Serious, Slight casualty type, car casualties.
 Other Indicators: Total casualties by vehicle type, monthly trend, casualties by road type and surface, casualties by location/area, and light conditions.
 Data Source: Kaggle,Wikipedia
